@@ -13,7 +13,7 @@
     "save_path":                  "path/to/theme",
     "save_url":                   "http://site.com/wp-content/themes/boiler/",
     "upload_path":                "path/to/theme/",
-    "wpcontent_dir":             "/home/username/public_html/boiler/wp-content/",
+    "wpcontent_dir":              "/home/username/public_html/boiler/wp-content/",
     "theme_dir":                  "path/to/theme/"  
   },
   "local": {
