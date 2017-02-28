@@ -7,7 +7,7 @@ Deploy WordPress automatically with Grunt and VVV Vargrant.
 <ol>
 	<li><a href="https://gruntjs.com/getting-started" target="blank">Grunt</a></li>
 	<li><a href="https://www.virtualbox.org/" target="blank">VirtualBox</a></li>
-	<li><a hre="https://www.vagrantup.com/downloads.html" target="blank">Vagrant</a></li>
+	<li><a href="https://www.vagrantup.com/downloads.html" target="blank">Vagrant</a></li>
 	<li><a href="https://github.com/Varying-Vagrant-Vagrants/VVV" target="blank">VVV (Varying-Vagrant-Vagrants)</a></li>
 	<li><a href="https://github.com/bradp/vv">Variable VVV</a></li>
 </ol>
