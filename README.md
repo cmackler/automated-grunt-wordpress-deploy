@@ -22,7 +22,7 @@
 	<li><a href="https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en">LiveReload Extension for Chrome</a> (allows you to see SASS/SCSS updates in Chrome without a Refresh_</li>
 </ol>
 
-<p><em>*Note: Please make sure that you have <strong>SSH</strong> access to your development/production websites and that you <strong>BACKUP YOUR DATABASES</strong> until you are comfortable with this workflow!</em></p>
+<p><em><strong>*Note: Please make sure that you have SSH access to your development/production websites and that you BACKUP YOUR DATABASES until you are comfortable with this workflow!</strong></em></p>
 
 <p>If you are not familiar with running a Vagrant environment for WordPress development, a helpful guide can be found here: <a href="http://wpbeaches.com/setting-up-a-wordpress-vvv-vagrant-workflow/" target="_blank">Setting up a WordPress VVV Vagrant Workflow</a></p>
 
