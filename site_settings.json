@@ -11,10 +11,10 @@
     "dbpass":                     "db_pass",
     "dbhost":                     "localhost",
     "save_path":                  "path/to/theme",
-    "save_url":                   "http://site.com/wp-content/themes/boiler/",
-    "upload_path":                "path/to/theme/",
-    "wpcontent_dir":              "/home/username/public_html/boiler/wp-content/",
-    "theme_dir":                  "path/to/theme/"  
+    "save_url":                   "http://site.com/wp-content/themes/your_theme/",
+    "upload_path":                "/home/username/public_html/path/to/theme/",
+    "wpcontent_dir":              "/home/username/public_html/path/to/theme/",
+    "theme_dir":                  "/home/username/public_html/path/to/theme/"  
   },
   "local": {
     "site_url":                   "http://site.dev",
