@@ -30,7 +30,7 @@
 
 <p>Copy the Gruntfile.js, package.json and site_settings.json into your theme directory. Once done, install the grunt packages by running <code>$ npm install</code> in your terminal window.</p>
 
-<p>Next, you will need to configure your <strong>site_settings.json</strong> file. It's pretty self-explanatory, just follow the template.</p>
+<p>Next, you will need to configure your <strong>site_settings.json</strong> file. It's pretty self-explanatory, just follow the template. <strong>Make sure to double-check all entries before transferring any files or databases.</strong></p>
 
 <h2>Available Commands</h2>
 <ul>
