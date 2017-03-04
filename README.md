@@ -18,7 +18,7 @@
 	<li><a href="https://gruntjs.com/getting-started" target="_blank">Grunt</a></li>
 	<li><a href="https://www.virtualbox.org/" target="_blank">VirtualBox</a></li>
 	<li><a href="https://www.vagrantup.com/downloads.html" target="_blank">Vagrant</a></li>
-	<li><a href="https://github.com/Varying-Vagrant-Vagrants/VVV" target="_blank">VVV (Varying-Vagrant-Vagrants)</a>. <strong>**Important - Use version 1.3.0 which can be cloned or downloaded <a href="https://github.com/Varying-Vagrant-Vagrants/VVV/tree/1.3.0">HERE</a>. The newest version has issues with this setup.</strong></li>
+	<li><a href="https://github.com/Varying-Vagrant-Vagrants/VVV" target="_blank">VVV (Varying-Vagrant-Vagrants)</a>. <strong>**Important - Use version 1.3.0 which can be downloaded <a href="https://github.com/Varying-Vagrant-Vagrants/VVV/tree/1.3.0">HERE</a>. The newest version has issues with this setup.</strong></li>
 	<li><a href="https://github.com/bradp/vv" target="_blank">Variable VVV</a></li>
 	<li><a href="https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en">LiveReload Extension for Chrome</a> (allows you to see SASS/SCSS updates in Chrome without a Refresh.</li>
 </ol>
