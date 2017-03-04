@@ -1,4 +1,4 @@
-# automated-grunt-wordpress-deploy
+# Automated WordPress Development and Deployment with Grunt
 <p>I created this grunt package to automate my WordPress development workflow.</p> 
 
 <p>This package allows you to:
