@@ -1,9 +1,11 @@
 # Automated WordPress Development and Deployment with Grunt
-<p>I created this grunt package to automate my WordPress development workflow. <strong>Please read through this carefully!</strong></p> 
+<p>I created this grunt package to automate my local WordPress development workflow. <strong>Please read through this carefully!</strong></p>
+
+<p><strong>This was designed to run in a Mac environment. I haven't tested this for Windows.</strong></p> 
 
 <p>This package allows you to:
 <ul>
-	<li>Create a WordPress install on your remote server. Destroy option coming soon.</li>
+	<li>Create a WordPress install on your remote server. Destroy option coming soon!</li>
 	<li>Automatically compile SASS/SCSS. No more running sass --watch!</li>
 	<li>Pull /wp-content folder from your remote development/production websites into your local environment to get up and running quickly.</li>
 	<li>Push content from your local environment to your remote development/production websites.</li>
@@ -12,6 +14,8 @@
 </p>
 
 <h2>Prerequisites</h2>
+
+<p>You should have an intermediate knowledge of the command line before proceeding.</p>
 
 <p>This package assumes that you have the following installed:</p>
 <ol>
