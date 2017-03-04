@@ -4,6 +4,7 @@
 <p>This package allows you to:
 <ul>
 	<li>Automatically compile SASS/SCSS. No more running sass --watch!</li>
+	<li>Create a WordPress install on your remote server</li>
 	<li>Pull /wp-content folder from your remote development/production websites into your local environment to get up and running quickly</li>
 	<li>Push content from your local environment to your remote development/production websites</li>
 	<li>Automatically sync your WordPress Database from local to remote and remote to local</li>
@@ -30,11 +31,12 @@
 
 <p>Copy the Gruntfile.js, package.json and site_settings.json into your theme directory. Once done, install the grunt packages by running <code>$ npm install</code> in your terminal window.</p>
 
-<p>Next, you will need to configure your <strong>site_settings.json</strong> file. It's pretty self-explanatory, just follow the template. <strong>Make sure to double-check all entries before transferring any files or databases.</strong></p>
+<p>Next, you will need to configure your <strong>site_settings.json</strong> file. It's pretty self-explanatory, just follow the template. <strong>**Make sure to double-check all entries before transferring any files or databases.</strong></p>
 
 <h2>Available Commands</h2>
 <ul>
 	<li><code>$ grunt</code> - Runs the watch command for compiling SASS/SCSS</li>
+	<li><code>$ grunt create_wp</code> - Creates a WordPress install on your remote server. <strong>**Double check your site_settings.json before running!</strong></li>
 	<li><code>$ grunt pull</code> - Pulls remote wp-content folder into your local site</li>
 	<li><code>$ grunt push</code> - Pushes local wp-content folder into your remote site</li>
 	<li><code>$ grunt push_theme</code> - Pushes local theme into your remote site</li>

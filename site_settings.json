@@ -1,20 +1,20 @@
 {
   "remote": {
-    "host":                       "site.com",
+    "host":                       "hostname",
     "site_url":                   "http://site.com",
     "sr_remote":                  "site.com",
-    "username":                   "username",
-    "password":                   "password",
+    "username":                   "account_username",
+    "password":                   "acount_password",
     "port":                       "2222",    
-    "dbname":                     "db_name",
+    "dbname":                     "db_to_create",
     "dbuser":                     "db_user",
-    "dbpass":                     "db_pass",
+    "dbpass":                     "db_password",
     "dbhost":                     "localhost",
-    "save_path":                  "path/to/theme",
-    "save_url":                   "http://site.com/wp-content/themes/your_theme/",
-    "upload_path":                "/home/username/public_html/path/to/theme/",
-    "wpcontent_dir":              "/home/username/public_html/path/to/theme/",
-    "theme_dir":                  "/home/username/public_html/path/to/theme/"  
+    "db_save_path":               "/home/username/public_html/path_to_theme",
+    "db_save_url":                "http://site.com/wp-content/themes/your_theme/",
+    "wpcontent_dir":              "/home/focus4dev/public_html/path_to_wp-content_folder/",
+    "theme_dir":                  "/home/focus4dev/public_html/path_to_theme/",
+    "root_dir":                   "/home/focus4dev/public_html/"    
   },
   "local": {
     "site_url":                   "http://site.dev",
@@ -23,7 +23,7 @@
     "dbuser":                     "wp",
     "dbpass":                     "wp",
     "dbhost":                     "0.0.0.0",
-    "dump_dir":                   "/srv/www/path/to/theme/",
-    "local_dump_dir":             "~/local_dev/vvv/www/path/to/theme/"  
+    "db_dump_dir":                "/srv/www/path_to_theme/",
+    "db_local_dump_dir":          "~/local_dev/vvv/www/path_to_theme/"  
   }
 }
