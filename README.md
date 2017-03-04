@@ -15,7 +15,7 @@
 
 <h2>Prerequisites</h2>
 
-<p>You should have an intermediate knowledge of the command line before proceeding.</p>
+<p>You should have at least an intermediate knowledge of the command line before proceeding.</p>
 
 <p>This package assumes that you have the following installed:</p>
 <ol>
