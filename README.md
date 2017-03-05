@@ -1,4 +1,4 @@
-# Automated WordPress Development and Deployment with Grunt
+# Automated WordPress Development and Deployment with Vagrant and Grunt
 <p>I created this grunt package to automate my local WordPress development workflow. <strong>Please read through this carefully!</strong></p>
 
 <p><strong>This was designed to run in a Mac environment. I haven't tested this for Windows.</strong></p> 
