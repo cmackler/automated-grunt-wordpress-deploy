@@ -36,7 +36,7 @@ module.exports = function(grunt) {
 				args: ["--verbose"],
 				//Be sure to exclude any files that pose a security risk if published, or simply
 				//aren't needed for your site to function.
-				exclude: [".git*", "site_settings", "node_modules", "Gruntfile.js", "package.json", ".sass-cache*", "main.css.map"],
+				exclude: [".git*", "site_settings.json", "node_modules", "Gruntfile.js", "package.json", ".sass-cache*", "main.css.map"],
 				recursive: true
 			},
 			//Pushes wp-content from local to remote website
