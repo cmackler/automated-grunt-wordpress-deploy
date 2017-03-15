@@ -5,7 +5,7 @@
 
 <p>This package allows you to:
 <ul>
-	<li>Create a WordPress install on your remote server. Destroy option coming soon!</li>
+	<li>Create a WordPress install on your remote server.</li>
 	<li>Automatically compile SASS/SCSS. No more running sass --watch!</li>
 	<li>Pull /wp-content folder from your remote development/production websites into your local environment to get up and running quickly.</li>
 	<li>Push content from your local environment to your remote development/production websites.</li>
