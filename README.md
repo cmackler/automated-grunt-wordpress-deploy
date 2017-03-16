@@ -5,7 +5,6 @@
 
 <p>This package allows you to:
 <ul>
-	<li>Create a WordPress install on your remote server.</li>
 	<li>Automatically compile SASS/SCSS. No more running sass --watch!</li>
 	<li>Pull /wp-content folder from your remote development/production websites into your local environment to get up and running quickly.</li>
 	<li>Push content from your local environment to your remote development/production websites.</li>
@@ -40,7 +39,6 @@
 <h2>Available Commands</h2>
 <ul>
 	<li><code>$ grunt</code> - Runs the watch command for compiling SASS/SCSS</li>
-	<li><code>$ grunt create_wp</code> - Creates a WordPress install on your remote server. <strong>**Double check your site_settings.json before running!</strong></li>
 	<li><code>$ grunt pull</code> - Pulls remote wp-content folder into your local site</li>
 	<li><code>$ grunt push</code> - Pushes local wp-content folder into your remote site</li>
 	<li><code>$ grunt push_theme</code> - Pushes local theme into your remote site</li>
