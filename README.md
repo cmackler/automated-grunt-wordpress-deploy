@@ -1,11 +1,11 @@
 # Automated WordPress Development and Deployment with Vagrant and Grunt
 <p>I created this grunt package to automate my local WordPress development workflow. <strong>Please read through this carefully!</strong></p>
 
-<p><strong>This was designed to run in a Mac environment. I haven't tested this for Windows.</strong></p> 
+<p><strong>This was designed to run in a Mac environment.</strong></p> 
 
 <p>This package allows you to:
 <ul>
-	<li>Automatically compile SASS/SCSS. No more running sass --watch!</li>
+	<li>Automatically compile SASS/SCSS.</li>
 	<li>Pull /wp-content folder from your remote development/production websites into your local environment to get up and running quickly.</li>
 	<li>Push content from your local environment to your remote development/production websites.</li>
 	<li>Automatically sync your WordPress Database from local to remote and remote to local.</li>
